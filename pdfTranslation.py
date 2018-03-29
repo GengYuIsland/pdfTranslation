@@ -3,11 +3,10 @@
 
 #脚本使用说明：
 #1、python3
-#2、pip安装库：hashlib、pdfminer3k
+#2、pip安装库：pdfminer3k
 #3、百度翻译平台申请appid和key，替换代码中的变量
 #http://api.fanyi.baidu.com/api/trans/product/index
-# 4、hashlib库可能比较难安装，所以附加了windows版本的hashlib安装文件。
-# 另外，hashlib可以从https://pypi.python.org/pypi/hashlib/20081119下载
+
 
 import hashlib
 import random
